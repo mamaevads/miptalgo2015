@@ -1,1 +1,1 @@
-# miptalgo2015
+Simple tasks from MIPT 2014-2015 C++ course.
